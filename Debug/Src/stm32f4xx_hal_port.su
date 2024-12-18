@@ -1,0 +1,10 @@
+../Src/stm32f4xx_hal_port.c:10:9:Port_ClockControl	56	static
+../Src/stm32f4xx_hal_port.c:100:9:Port_Init	40	static
+../Src/stm32f4xx_hal_port.c:266:9:Port_DeInit	32	static
+../Src/stm32f4xx_hal_port.c:327:9:Port_ReadPin	32	static
+../Src/stm32f4xx_hal_port.c:369:9:Port_WritePin	24	static
+../Src/stm32f4xx_hal_port.c:415:9:Port_TogglePin	24	static
+../Src/stm32f4xx_hal_port.c:452:6:Port_EXTI0_IRQHandler	16	static
+../Src/stm32f4xx_hal_port.c:464:6:Port_EXTI15_10_IRQHandler	16	static
+../Src/stm32f4xx_hal_port.c:476:28:Port_EXTI0_IRQ_CB	4	static
+../Src/stm32f4xx_hal_port.c:481:28:Port_EXTI15_10_IRQ_CB	4	static

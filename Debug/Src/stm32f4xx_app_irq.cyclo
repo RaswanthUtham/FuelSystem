@@ -1,0 +1,9 @@
+../Src/stm32f4xx_app_irq.c:7:6:nvic_irq_init	1
+../Src/stm32f4xx_app_irq.c:13:6:nvic_irq_deinit	1
+../Src/stm32f4xx_app_irq.c:19:6:EXTI0_IRQHandler	2
+../Src/stm32f4xx_app_irq.c:26:6:EXTI15_10_IRQHandler	1
+../Src/stm32f4xx_app_irq.c:31:6:SPI1_IRQHandler	1
+../Src/stm32f4xx_app_irq.c:36:6:Port_EXT0_IRQ_CB	1
+../Src/stm32f4xx_app_irq.c:41:6:Port_EXTI15_10_IRQ_CB	1
+../Src/stm32f4xx_app_irq.c:47:6:Spi_SPI1_IRQ_TX_CB	1
+../Src/stm32f4xx_app_irq.c:53:6:Spi_SPI1_IRQ_RX_CB	1

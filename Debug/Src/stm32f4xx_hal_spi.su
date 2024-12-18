@@ -1,0 +1,9 @@
+../Src/stm32f4xx_hal_spi.c:13:9:Spi_Init	24	static
+../Src/stm32f4xx_hal_spi.c:170:9:Spi_DeInit	16	static
+../Src/stm32f4xx_hal_spi.c:203:9:Spi_SyncTransmit	24	static
+../Src/stm32f4xx_hal_spi.c:275:9:Spi_SyncReceive	16	static
+../Src/stm32f4xx_hal_spi.c:288:9:Spi_SyncTransmitReceive	24	static
+../Src/stm32f4xx_hal_spi.c:347:9:Spi_AsyncTransmitIt	16	static
+../Src/stm32f4xx_hal_spi.c:364:6:Spi_SPI_IRQHandler	16	static
+../Src/stm32f4xx_hal_spi.c:377:13:Spi_SPI_Tx_ISR	16	static
+../Src/stm32f4xx_hal_spi.c:399:13:Spi_SPI_Rx_ISR	16	static

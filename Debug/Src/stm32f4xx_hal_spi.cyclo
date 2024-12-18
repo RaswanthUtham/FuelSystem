@@ -1,0 +1,9 @@
+../Src/stm32f4xx_hal_spi.c:13:9:Spi_Init	35
+../Src/stm32f4xx_hal_spi.c:170:9:Spi_DeInit	6
+../Src/stm32f4xx_hal_spi.c:203:9:Spi_SyncTransmit	10
+../Src/stm32f4xx_hal_spi.c:275:9:Spi_SyncReceive	4
+../Src/stm32f4xx_hal_spi.c:288:9:Spi_SyncTransmitReceive	19
+../Src/stm32f4xx_hal_spi.c:347:9:Spi_AsyncTransmitIt	2
+../Src/stm32f4xx_hal_spi.c:364:6:Spi_SPI_IRQHandler	5
+../Src/stm32f4xx_hal_spi.c:377:13:Spi_SPI_Tx_ISR	5
+../Src/stm32f4xx_hal_spi.c:399:13:Spi_SPI_Rx_ISR	5

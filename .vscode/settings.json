@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "arm_cm4.h": "c",
+        "cstdint": "c",
+        "stm32f4xx_hal_port.h": "c",
+        "stdint.h": "c",
+        "stm32xxxx.h": "c",
+        "stm32f446re.h": "c",
+        "stm32f4xx_hal_rcc.h": "c"
+    }
+}
